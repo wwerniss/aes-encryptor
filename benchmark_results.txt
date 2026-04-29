@@ -1,0 +1,14 @@
+=== AES Encryption Benchmark Results ===
+Mode                     Data Size (B)  Threads        Time (ms)      
+----------------------------------------------------------------------
+Sequential               1024           1              0.557          
+Parallel                 1024           8              0.237          
+Sequential               10240          1              4.442          
+Parallel                 10240          8              0.916          
+Sequential               102400         1              29.888         
+Parallel                 102400         8              5.340          
+Sequential               1048576        1              251.893        
+Parallel                 1048576        8              39.298         
+Sequential               10485760       1              2510.561       
+Parallel                 10485760       8              394.912        
+

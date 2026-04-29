@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['_7eiencryptor_0',['~IEncryptor',['../classIEncryptor.html#ac560e3c98887d338b4349f68ac2e9d8d',1,'IEncryptor']]]
+  ['test_0',['test',['../AesTests_8cpp.html#adee50c214361eec3548c8c0b17099038',1,'TEST(AesBlockTest, EncryptCorrectness):&#160;AesTests.cpp'],['../AesTests_8cpp.html#a5f1e1564f0674fac392bb991e5b18011',1,'TEST(AesEncryptorTest, SequentialVsParallel):&#160;AesTests.cpp'],['../AesTests_8cpp.html#abc9b11f608e4ed1875c10e0573b24cfa',1,'TEST(AesEncryptorTest, InvalidKeySize):&#160;AesTests.cpp'],['../AesTests_8cpp.html#a084c491f7245bb4ca7490a2b8474180c',1,'TEST(AesEncryptorTest, EmptyData):&#160;AesTests.cpp'],['../AesTests_8cpp.html#a34ed753ebd0829a91ff01be672820059',1,'TEST(AesEncryptorTest, UnalignedDataSize):&#160;AesTests.cpp'],['../AesTests_8cpp.html#a4839ff4c12dfeadba42ecd7b1a636e53',1,'TEST(AesEncryptorTest, ParallelDecryption):&#160;AesTests.cpp'],['../AesTests_8cpp.html#a496cc498e76fae32b792aa4ded009d7c',1,'TEST(AesEncryptorTest, DifferentThreadCounts):&#160;AesTests.cpp']]]
 ];

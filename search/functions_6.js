@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['_7eiencryptor_0',['~IEncryptor',['../classIEncryptor.html#ac560e3c98887d338b4349f68ac2e9d8d',1,'IEncryptor']]]
+  ['setnumthreads_0',['setNumThreads',['../classAesParallel.html#aa60d6e4bf05b867fe85eb01adb82726e',1,'AesParallel']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['num_5frounds_0',['NUM_ROUNDS',['../classAesBlock.html#a7694860877586a7fe62355338c24c98d',1,'AesBlock']]]
+  ['executiontimems_0',['executionTimeMs',['../structBenchmarkResult.html#a4cee8d7c0cd2c207a9ad7bdf19fefe6d',1,'BenchmarkResult']]]
 ];

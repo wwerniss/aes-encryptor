@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['key_5fsize_0',['KEY_SIZE',['../classAesBlock.html#a8bc951d73ec8bcbf4c66bba644510ed9',1,'AesBlock']]]
+  ['datasizebytes_0',['dataSizeBytes',['../structBenchmarkResult.html#acba279ede3d952bb19d5ff7a1177272c',1,'BenchmarkResult']]]
 ];

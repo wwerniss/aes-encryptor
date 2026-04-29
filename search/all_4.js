@@ -5,5 +5,6 @@ var searchData=
   ['encryptorfactory_2',['EncryptorFactory',['../classEncryptorFactory.html',1,'']]],
   ['encryptorfactory_2ecpp_3',['EncryptorFactory.cpp',['../EncryptorFactory_8cpp.html',1,'']]],
   ['encryptorfactory_2eh_4',['EncryptorFactory.h',['../EncryptorFactory_8h.html',1,'']]],
-  ['encryptortype_5',['EncryptorType',['../EncryptorFactory_8h.html#afce4642c58b63a42b93bbdb36814f444',1,'EncryptorFactory.h']]]
+  ['encryptortype_5',['EncryptorType',['../EncryptorFactory_8h.html#afce4642c58b63a42b93bbdb36814f444',1,'EncryptorFactory.h']]],
+  ['executiontimems_6',['executionTimeMs',['../structBenchmarkResult.html#a4cee8d7c0cd2c207a9ad7bdf19fefe6d',1,'BenchmarkResult']]]
 ];

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['sequential_0',['Sequential',['../EncryptorFactory_8h.html#afce4642c58b63a42b93bbdb36814f444aa7e82daa7280af25afbaa076ac16eb1e',1,'EncryptorFactory.h']]],
-  ['setnumthreads_1',['setNumThreads',['../classAesParallel.html#aa60d6e4bf05b867fe85eb01adb82726e',1,'AesParallel']]]
+  ['parallel_0',['Parallel',['../EncryptorFactory_8h.html#afce4642c58b63a42b93bbdb36814f444a98402eecfbcefc336954458a01752131',1,'EncryptorFactory.h']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['setnumthreads_0',['setNumThreads',['../classAesParallel.html#aa60d6e4bf05b867fe85eb01adb82726e',1,'AesParallel']]]
+  ['run_0',['run',['../classBenchmark.html#a5288c814a66000c24d04d54714a4a321',1,'Benchmark']]]
 ];

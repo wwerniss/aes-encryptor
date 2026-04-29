@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['run_0',['run',['../classBenchmark.html#a5288c814a66000c24d04d54714a4a321',1,'Benchmark']]]
+  ['parallel_0',['Parallel',['../EncryptorFactory_8h.html#afce4642c58b63a42b93bbdb36814f444a98402eecfbcefc336954458a01752131',1,'EncryptorFactory.h']]]
 ];

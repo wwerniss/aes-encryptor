@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['benchmark_0',['Benchmark',['../classBenchmark.html',1,'']]],
+  ['benchmark_0',['benchmark',['../md_README.html',1,'AES Encryptor (Multithreaded Benchmark)'],['../classBenchmark.html',1,'Benchmark']]],
   ['benchmark_2ecpp_1',['Benchmark.cpp',['../Benchmark_8cpp.html',1,'']]],
   ['benchmark_2eh_2',['Benchmark.h',['../Benchmark_8h.html',1,'']]],
   ['benchmarkresult_3',['BenchmarkResult',['../structBenchmarkResult.html',1,'']]],
